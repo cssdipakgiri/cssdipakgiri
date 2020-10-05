@@ -9,3 +9,5 @@
   - Python web devlopment(flask, django, selenium and a kind of database)
   - Java(Android with java and kotlin)
   - PHP(any freamwork and any database)
+
+### In this Account in repositry you may probably find some frontend js code. Happy Coding!
