@@ -11,4 +11,4 @@
   - Java(Android with java and kotlin)
   - PHP(any freamwork and any database)
 
-### In this Account in repositry you may probably find some frontend js code. Happy Coding!
+##### In this Account in repositry you may probably find some frontend javascript code and Android mesh. Happy Coding!
