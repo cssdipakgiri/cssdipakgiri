@@ -3,4 +3,4 @@
   - 𝒊𝒏 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆.
 
 - ☕ learning programming
-    - ___```html js css python c++```___
+    - ___```html js css python c++ and android```___
